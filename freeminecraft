@@ -1,0 +1,16 @@
+[INFO]: Launcher 3.7.0 started on windows...
+[INFO]: Current time is Jul 2, 2020 12:46:21 PM
+[INFO]: System.getProperty('os.name') == 'Windows 10'
+[INFO]: System.getProperty('os.version') == '10.0'
+[INFO]: System.getProperty('os.arch') == 'x86'
+[INFO]: System.getProperty('java.version') == '1.8.0_231'
+[INFO]: System.getProperty('java.vendor') == 'Oracle Corporation'
+[INFO]: System.getProperty('sun.arch.data.model') == '32'
+[INFO]: JFX is already initialized
+[INFO]: Refreshing local version list...
+[INFO]: Refreshing remote version list...
+[INFO]: News is up to date!
+[INFO]: Refresh complete.
+[INFO]: Loaded 3 profile(s); selected '(Default)'
+[INFO]: Getting syncinfo for selected version
+[INFO]: Queueing library & version downloads
