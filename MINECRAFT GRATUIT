@@ -1,0 +1,77 @@
+[12:35:10 INFO]: Launcher 3.7.0 started on windows...
+[12:35:10 INFO]: Current time is Jul 2, 2020 12:35:10 PM
+[12:35:10 INFO]: System.getProperty('os.name') == 'Windows 10'
+[12:35:10 INFO]: System.getProperty('os.version') == '10.0'
+[12:35:10 INFO]: System.getProperty('os.arch') == 'x86'
+[12:35:10 INFO]: System.getProperty('java.version') == '1.8.0_231'
+[12:35:10 INFO]: System.getProperty('java.vendor') == 'Oracle Corporation'
+[12:35:10 INFO]: System.getProperty('sun.arch.data.model') == '32'
+[12:35:11 INFO]: JFX is already initialized
+[12:35:14 INFO]: News is up to date!
+[12:35:15 INFO]: Refreshing local version list...
+[12:35:15 INFO]: Refreshing remote version list...
+[12:35:18 INFO]: Refresh complete.
+[12:35:18 SEVERE]: Unexpected exception refreshing profile list
+java.lang.ClassCastException: com.google.gson.JsonObject cannot be cast to com.google.gson.JsonPrimitive
+	at com.google.gson.JsonObject.getAsJsonPrimitive(JsonObject.java:166)
+	at net.minecraft.launcher.profile.ProfileManager$RawProfileList$Serializer.deserialize(Unknown Source)
+	at net.minecraft.launcher.profile.ProfileManager$RawProfileList$Serializer.deserialize(Unknown Source)
+	at com.google.gson.TreeTypeAdapter.read(TreeTypeAdapter.java:58)
+	at com.google.gson.Gson.fromJson(Gson.java:795)
+	at com.google.gson.Gson.fromJson(Gson.java:859)
+	at com.google.gson.Gson.fromJson(Gson.java:832)
+	at net.minecraft.launcher.Launcher$2.run(Unknown Source)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+[12:35:34 INFO]: Getting syncinfo for selected version
+[12:35:34 INFO]: Queueing library & version downloads
+[12:35:34 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:39 INFO]: Getting syncinfo for selected version
+[12:35:39 INFO]: Queueing library & version downloads
+[12:35:39 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:48 INFO]: Getting syncinfo for selected version
+[12:35:48 INFO]: Queueing library & version downloads
+[12:35:48 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:49 INFO]: Getting syncinfo for selected version
+[12:35:49 INFO]: Queueing library & version downloads
+[12:35:49 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:49 INFO]: Getting syncinfo for selected version
+[12:35:49 INFO]: Queueing library & version downloads
+[12:35:49 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:49 INFO]: Getting syncinfo for selected version
+[12:35:49 INFO]: Queueing library & version downloads
+[12:35:49 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:51 INFO]: Getting syncinfo for selected version
+[12:35:51 INFO]: Queueing library & version downloads
+[12:35:51 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:52 INFO]: Getting syncinfo for selected version
+[12:35:52 INFO]: Queueing library & version downloads
+[12:35:52 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:52 INFO]: Getting syncinfo for selected version
+[12:35:52 INFO]: Queueing library & version downloads
+[12:35:52 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:53 INFO]: Getting syncinfo for selected version
+[12:35:53 INFO]: Queueing library & version downloads
+[12:35:53 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:53 INFO]: Getting syncinfo for selected version
+[12:35:53 INFO]: Queueing library & version downloads
+[12:35:53 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:53 INFO]: Getting syncinfo for selected version
+[12:35:53 INFO]: Queueing library & version downloads
+[12:35:53 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:53 INFO]: Getting syncinfo for selected version
+[12:35:53 INFO]: Queueing library & version downloads
+[12:35:53 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:53 INFO]: Getting syncinfo for selected version
+[12:35:53 INFO]: Queueing library & version downloads
+[12:35:53 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:54 INFO]: Getting syncinfo for selected version
+[12:35:54 INFO]: Queueing library & version downloads
+[12:35:54 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
+[12:35:54 INFO]: Getting syncinfo for selected version
+[12:35:54 INFO]: Queueing library & version downloads
+[12:35:54 SEVERE]: An update to your launcher is available and is required to play 1.16.1-Aristois. Please restart your launcher.
